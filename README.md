@@ -1,3 +1,5 @@
+> **Rebuilt version:** The maintained implementation is now [stratify-inventory-optimizer](https://github.com/AtharvaAiren/stratify-inventory-optimizer). This repository retains the original proposal/submission material.
+
 # Inventory Rewired — Stratify
 
 A business-analytics project for **Stratify, Analytics Club, IIT Bombay (2025)**. The project analyses a simulated retail network of **three stores and ten SKUs**, then compares replenishment policies over a **21-day simulation**.
